@@ -1,0 +1,15 @@
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\bin\Debug\net7.0\Excercise 1.exe
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\bin\Debug\net7.0\Excercise 1.deps.json
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\bin\Debug\net7.0\Excercise 1.runtimeconfig.json
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\bin\Debug\net7.0\Excercise 1.dll
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\bin\Debug\net7.0\Excercise 1.pdb
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\Excercise 1.csproj.AssemblyReference.cache
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\Excercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\Excercise 1.AssemblyInfoInputs.cache
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\Excercise 1.AssemblyInfo.cs
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\Excercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\Excercise 1.dll
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\refint\Excercise 1.dll
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\Excercise 1.pdb
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\Excercise 1.genruntimeconfig.cache
+C:\Users\Riahi\Desktop\New folder (10)\Excercise 1\obj\Debug\net7.0\ref\Excercise 1.dll
